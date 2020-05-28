@@ -1,0 +1,13 @@
+
+
+
+
+各位同学们，今天晚上20:30-22:30，腾讯课堂内部课《大型系统分布式日志采集系统ELK》  基于Elasticsearch+Logstash+Kiabana实现日志收集
+课题内容:
+1、传统系统日志收集的问题
+2、Logstash操作工作原理
+3、分布式日志收集ELK原理
+4、Elasticsearch+Logstash+Kiabana整合
+5、Logstash将数据推送到ES
+6、Kiabana图形界面展示ES日志信息
+这是分布式日志收集中，非常重要一个组件，希望大家一定听下！！！
