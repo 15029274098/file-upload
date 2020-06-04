@@ -1,0 +1,14 @@
+###会员服务启动端口号
+server:
+  port: 8060
+###服务名称(服务注册到eureka名称)  
+spring:
+    application:
+        name: app-itmayiedu-pay
+    zipkin:
+        base-url: http://127.0.0.1:9411
+###服务注册到eureka地址
+eureka:
+  client:
+    service-url:
+           defaultZone: http://localhost:8100/eureka
